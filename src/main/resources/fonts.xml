@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<fontFamilies>
+
+    <fontFamily name="NotoSansMalayalam">
+        <normal>fonts/NotoSansMalayalam.ttf</normal>
+        <bold>fonts/NotoSansMalayalam.ttf</bold>
+        <italic>fonts/NotoSansMalayalam.ttf</italic>
+        <boldItalic>fonts/NotoSansMalayalam.ttf</boldItalic>
+        <pdfEncoding>Identity-H</pdfEncoding>
+        <pdfEmbedded>true</pdfEmbedded>
+        <!--
+        <exportFonts>
+            <export key="net.sf.jasperreports.html">'Lobster Two', 'Times New Roman', Times, serif</export>
+        </exportFonts>
+        -->
+    </fontFamily>
+
+</fontFamilies>
